@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+
+    <head>
+        <meta charset="UTF8" />
+        <title> <strong> Student Bio</strong></title>
+
+        <h2><strong>Hannah Lewis</strong></h2>
+
+        <img src="https://via.placeholder.com/200" alt="">
+
+        <p> My name is Hannah Lewis. Originally from the land of 100,000 lakes, for the last 16 years I've made Atlanta, GA my home. I enjoy being outdoors when the weather is nice, fall and spring are my favorite seasons. I enjoy being challenged mentally, I'm looking to piviot into a different industry so that I can enjoy the work I do day in and day out. I'm looking forward to this experince in bootcamp!</p>
+
+        <h2><strong>Contact Info</strong></h2>
+        <ul>
+            <li><strong>Email:</strong><a href="mailto:hannahdlewis07@gmail.com"></a></li>
+            <li><strong>Github:</strong>Hannahdlewis</li>
+            <li><strong>Portfolio:</strong>coming soon</li>
+
+        </ul>
+    </head>
+    <body>
+    
+
+
+    </body>
+
+
+
+</html>
